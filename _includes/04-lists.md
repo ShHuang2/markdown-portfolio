@@ -1,5 +1,5 @@
-# apples
-# jeans
-# pears
-# edwin
-# edwin kuangs mama
+- apples
+- jeans
+- pears
+- edwin
+- edwin kuangs mama
